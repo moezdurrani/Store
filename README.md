@@ -1,5 +1,8 @@
 # Store
 
+![store](https://github.com/moezdurrani/Store/assets/103555283/f1177b0b-4f17-4153-bc69-3d459a405d50)
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.1.
 
 ## Development server
